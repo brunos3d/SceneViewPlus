@@ -1,0 +1,56 @@
+// SceneView Prefs
+// Version 1.3.1
+// Bruno Silva
+// bruno3dcontato@gmail.com
+
+SceneView Interact:
+
+Key [F1] = Show hotkeys Info
+Key [A] = Select/deselect all objects
+Key [G] = Create group with selected objects
+Key [H] = Hide all selected objects
+Key [X] = Display Dialog to destroy objects
+Key [Z] = Toggle Wireframe render mode
+Key [Home] = Center the view for the selected objects
+
+Ctrl/Cmd + Key [I] = Invert selection
+Ctrl/Cmd + Key [G] = Select whole group
+Ctrl/Cmd + Key [H] = Unhide (show) all selected objects
+
+=================================================================
+
+SceneView Move:
+
+Numpad [0] = Align SceneView with the current camera;
+Numpad [5] = Toggle orthographic;
+
+Numpad [1] = Move SceneView to the back axis;
+Numpad [3] = Move SceneView to the right axis;
+Numpad [7] = Move SceneView to the top axis;
+
+Ctrl/Cmd + Numpad [1] = Move SceneView to the front axis;
+Ctrl/Cmd + Numpad [3] = Move SceneView to the left axis;
+Ctrl/Cmd + Numpad [7] = Move SceneView to the bottom axis;
+
+=================================================================
+
+SceneView Orbit:
+
+Numpad [4] = Left;
+Numpad [6] = Right;
+Numpad [8] = Up;
+Numpad [2] = Down;
+
+=================================================================
+
+SceneView Roll:
+
+Ctrl/Cmd + Numpad [4] = Left;
+Ctrl/Cmd + Numpad [6] = Right;
+
+=================================================================
+
+SceneView Zoom:
+
+Numpad [+] = Zoom in;
+Numpad [-] = Zoom out;
