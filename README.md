@@ -1,6 +1,6 @@
 # SceneViewPlus
 
-##### SceneViewPlus for Unity is an editor extension that allows you to easily manipulate your game objects directly in SceneView, with this extension you can:
+#### SceneViewPlus for Unity is an editor extension that allows you to easily manipulate your game objects directly in SceneView, with this extension you can:
 
 * Easy to use.
 
@@ -30,7 +30,7 @@
 
 ------
 
-##### SceneView Interact:
+### SceneView Interact:
 
 - Key [F1] = Show hotkeys Info
 
@@ -56,7 +56,7 @@
 
 ------
 
-##### SceneView Move:
+### SceneView Move:
 
 - Numpad [0] = Align SceneView with the current camera;
 
@@ -80,7 +80,7 @@
 
 ------
 
-##### SceneView Orbit:
+### SceneView Orbit:
 
 - Numpad [4] = Left;
 - Numpad [6] = Right;
@@ -89,14 +89,14 @@
 
 ------
 
-##### SceneView Roll:
+### SceneView Roll:
 
 - Ctrl/Cmd + Numpad [4] = Left;
 - Ctrl/Cmd + Numpad [6] = Right;
 
 ------
 
-##### SceneView Zoom:
+### SceneView Zoom:
 
 - Numpad [+] = Zoom in;
 - Numpad [-] = Zoom out;
