@@ -105,5 +105,5 @@
 
 *Support for Unity 5.3.4 or higher Source code included*
 
-[AssetStore link](https://assetstore.unity.com/packages/tools/utilities/sceneviewplus-68998)
+[AssetStore link](https://assetstore.unity.com/packages/tools/utilities/sceneviewplus-68998?aid=1011l4JRk)
 
